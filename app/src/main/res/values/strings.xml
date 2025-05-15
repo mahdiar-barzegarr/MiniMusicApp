@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My_Application2</string>
+    <string name="show">show</string>
+    <string name="name">name</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="test">test</string>
+    <string name="mahdair">mahdair</string>
+    <string name="this_picture_has_problem">this picture has problem</string>
+    <string name="todo">todo</string>
+    <string name="share">SHARE</string>
+    <string name="add_content">ADD_CONTENT</string>
+    <string name="email">EMAIL</string>
+    <string name="phone">PHONE</string>
+    <string name="search">SEARCH</string>
+    <string name="setting">SETTING</string>
+    <string name="open_site">OPEN_SITE</string>
+</resources>
